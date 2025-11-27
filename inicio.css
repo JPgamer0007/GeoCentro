@@ -94,40 +94,8 @@ html, body {
 }
 
 .card-img-top {
-  max-height: 200px; /* limita a altura da imagem */
+  max-height: auto; /* limita a altura da imagem */
   object-fit: cover; /* mantém proporção e corta o excesso */
-}
-
-.card-esport
-{
-    background-color: rgb(255, 0, 255);
-    color: white;
-}
-
-.card-saude
-{
-    background-color: rgb(92, 214, 255);
-}
-
-.card-geo
-{
-    background-color: rgb(173, 173, 126);
-}
-
-.card-eco
-{
-    background-color: rgb(255, 229, 79);
-}
-
-.card-cele
-{
-    background-color: rgb(255, 26, 26);
-    color: white;
-}
-
-.card-arte
-{
-    background-color: beige;
 }
 
 .card-hover-black {
@@ -203,4 +171,44 @@ html, body {
     width: 100%;
     height: auto;
     object-fit: unset;
+}
+
+.color-1 {
+  background-color: #ff4d4d; /* Vermelho suave */
+}
+
+.color-2 {
+  background-color: #4da6ff; /* Azul claro */
+}
+
+.color-3 {
+  background-color: #4dff88; /* Verde neon suave */
+}
+
+.color-4 {
+  background-color: #ffd24d; /* Amarelo quente */
+}
+
+.color-5 {
+  background-color: #b84dff; /* Roxo vibrante */
+}
+
+.color-6 {
+  background-color: #ff4dd2; /* Rosa forte */
+}
+
+.color-7 {
+  background-color: #4dffe1; /* Ciano pastel */
+}
+
+.color-8 {
+  background-color: #ffa64d; /* Laranja suave */
+}
+
+.color-9 {
+  background-color: #6e6eff; /* Azul roxo */
+}
+
+.color-10 {
+  background-color: #995483; /* Cinza escuro */
 }
