@@ -35,7 +35,8 @@ html, body {
 
 .caixatitulo
 {
-    font-size: clamp(5rem, 11vw, 12rem);
+    font-size: clamp(3rem, 10vw, 10rem);
+    font-weight: bold;
     text-shadow: 8px 8px 18px rgba(0, 0, 0, 0.6);
 }
 
